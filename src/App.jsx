@@ -1,8 +1,9 @@
 import React from 'react'
 
-const App = () => {
+const bhavana = () => {
   return (
-    <div>Bhavana</div>
+    <div>bhavana</div>
   )
 }
-export default App
+
+export default bhavana;
